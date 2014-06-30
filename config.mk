@@ -3,7 +3,7 @@
 # paths
 PREFIX      = /usr/local
 BINDIR      = ${PREFIX}/bin
-MANDIR      = ${PREFIX}/man
+MANDIR      = ${PREFIX}/share/man
 MAN1DIR     = ${MANDIR}/man1
 DOCDIR      = ${PREFIX}/share/doc/ii
 
